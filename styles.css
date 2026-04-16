@@ -71,3 +71,7 @@ main{
     padding: 10px;
     font-family: 'Courier New', Courier, monospace;
 }
+body {
+    background-color: #f1f3f5; /* cinza suave moderno */
+}
+
